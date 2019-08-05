@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace project_2019
 {
-    public partial class Form1 : Form
+    public partial class frmCherryBomb : Form
     {
-        public Form1()
+        public frmCherryBomb()
         {
             InitializeComponent();
         }
